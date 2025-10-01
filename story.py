@@ -10,6 +10,9 @@ def intro():
 
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
+    print("With great effort, you pull it free and feel heroic power surge through you!")
+    print("The forest seems less dark, and you know you are destined to be the hero of this story.")
+
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
