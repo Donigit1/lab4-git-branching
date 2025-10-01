@@ -15,8 +15,8 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `hero-path`: The hero discovers a glowing sword, gains strength, and begins their journey as the chosen one.
+- `villain-path`: The hero encounters a dark figure who tempts them with forbidden power; the wind warns that power has a price.
 
 ## Final Checklist
 
