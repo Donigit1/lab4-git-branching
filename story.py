@@ -15,7 +15,9 @@ def center_path():
     print("At a quiet clearing, a calm voice teaches you a secret that changes your fate.")
 
 def right_path():
-    print("You walk right and encounter a talking squirrel who challenges you to a duel.")
+    print("You walk right and encounter a shadowy figure cloaked in darkness.")
+    print("The figure reveals itself as a powerful villain who tempts you with forbidden power.")
+    print("Your choice will decide if you join them or fight back...")
 
 if __name__ == "__main__":
     intro()
