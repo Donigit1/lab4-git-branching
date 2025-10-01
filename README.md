@@ -15,7 +15,7 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
+- `hero-path`: The hero discovers a glowing sword, gains strength, and begins their journey as the chosen one.
 - `villain-path`: _[Describe your changes here]_
 
 ## Final Checklist
